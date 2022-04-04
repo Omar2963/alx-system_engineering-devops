@@ -18,3 +18,4 @@ display content first 10 lines
 17-hidethisword
 18-letteronly
 19-AZ
+20-hiago
